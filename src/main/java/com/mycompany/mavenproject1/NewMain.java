@@ -18,6 +18,10 @@ public class NewMain {
         // TODO code application logic here
         
         System.out.println("Ciao, sono Chiara");
+        
+        
+        System.out.println("stampa emanuela");
+        
     }
     
 }
