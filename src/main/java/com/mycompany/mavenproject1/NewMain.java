@@ -22,6 +22,9 @@ public class NewMain {
         
         System.out.println("stampa emanuela");
         
+        
+        System.out.println("Ciao, sono Palma");
+        
     }
     
 }
