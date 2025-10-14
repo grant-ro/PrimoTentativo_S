@@ -11,7 +11,7 @@ package com.mycompany.mavenproject1;
 public class Mavenproject1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World! secondo commit");
+        System.out.println("Hello World! 1 di merge commit");
         
     }
 }
